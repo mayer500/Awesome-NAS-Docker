@@ -43,7 +43,7 @@
 
 | 项目标题      | 项目简介                     | 项目地址                                                  | 教程                                                 | star                                                         | 最近更新                                                     |
 | ------------- | ---------------------------- | --------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 独角数卡      | 搭建自动售货商城实现自动发货 | [项目地址](https://github.com/apocalypsor/dujiaoka)       | [查看教程](https://zhuanlan.zhihu.com/p/30380053677) | ![Star](https://img.shields.io/github/stars/apocalypsor/dujiaoka?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/apocalypsor/dujiaoka?label) |
+| 独角数卡      | 搭建自动售货商城实现自动发货 | [项目地址](https://github.com/assimon/dujiaoka)           | [查看教程](https://zhuanlan.zhihu.com/p/30380053677) | ![Star](https://img.shields.io/github/stars/assimon/dujiaoka?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/assimon/dujiaoka?label) |
 | kimi-free-api | 利用NAS白嫖API打造AI助理     | [项目地址](https://github.com/LLM-Red-Team/kimi-free-api) | [查看教程](https://zhuanlan.zhihu.com/p/30656476376) | ![Star](https://img.shields.io/github/stars/LLM-Red-Team/kimi-free-api?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/LLM-Red-Team/kimi-free-api?label) |
 
 #### 1.3 辅助开发工具
@@ -51,7 +51,7 @@
 | 项目标题            | 项目简介                       | 项目地址                                            | 教程                                                 | star                                                         | 最近更新                                                     |
 | ------------------- | ------------------------------ | --------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Halo                | 无需备案搭建高颜值动态主页     | [项目地址](https://github.com/halo-dev/halo)        | [查看教程](https://zhuanlan.zhihu.com/p/31658899666) | ![Star](https://img.shields.io/github/stars/halo-dev/halo?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/halo-dev/halo?label) |
-| Reference中文速查表 | 提供 170+ 技术栈速查的开发工具 | [项目地址](https://github.com/jaywcjlove/reference) | [查看教程](https://zhuanlan.zhihu.com/p/31530365403) | ![Star](https://img.shields.io/github/stars/jaywcjlove/reference?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/jaywcjlove/reference?label) ![Last Commit](https://img.shields.io/github/last-commit/jaywcjlove/reference?label) |
+| Reference中文速查表 | 提供 170+ 技术栈速查的开发工具 | [项目地址](https://github.com/jaywcjlove/reference) | [查看教程](https://zhuanlan.zhihu.com/p/31530365403) | ![Star](https://img.shields.io/github/stars/jaywcjlove/reference?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/jaywcjlove/reference?label) |
 | Penpot              | 跨平台原型设计及团队协作工具   | [项目地址](https://github.com/penpot/penpot-docs)   | [查看教程](https://zhuanlan.zhihu.com/p/28926566755) | ![Star](https://img.shields.io/github/stars/penpot/penpot-docs?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/penpot/penpot-docs?label) |
 | 2Fauth              | 整合管理多平台二步验证验证码   | [项目地址](https://github.com/Bubka/2FAuth)         | [查看教程](https://zhuanlan.zhihu.com/p/30421625897) | ![Star](https://img.shields.io/github/stars/Bubka/2FAuth?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/Bubka/2FAuth?label) |
 
@@ -182,9 +182,9 @@
 
 #### 6.1 项目管理
 
-| 项目标题 | 项目简介                       | 项目地址                                      | 教程                                                 | star                                                         | 最近更新                                                     |
-| -------- | ------------------------------ | --------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Wallos   | 管理周期账单及提醒的自托管系统 | [项目地址](https://github.com/bellamy/wallos) | [查看教程](https://zhuanlan.zhihu.com/p/31069090279) | ![Star](https://img.shields.io/github/stars/bellamy/wallos?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/bellamy/wallos?label) |
+| 项目标题 | 项目简介                       | 项目地址                                     | 教程                                                 | star                                                         | 最近更新                                                     |
+| -------- | ------------------------------ | -------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Wallos   | 管理周期账单及提醒的自托管系统 | [项目地址](https://github.com/ellite/Wallos) | [查看教程](https://zhuanlan.zhihu.com/p/31069090279) | ![Star](https://img.shields.io/github/stars/ellite/Wallos?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/ellite/Wallos?label) |
 #### 6.2 通讯协同
 
 | 项目标题 | 项目简介                       | 项目地址                                       | 教程                                                 | star                                                         | 最近更新                                                     |
@@ -298,8 +298,8 @@
 
 | 项目标题       | 项目简介                     | 项目地址                                                     | 教程                                                 | star                                                         | 最近更新                                                     |
 | -------------- | ---------------------------- | ------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 卷王考试系统   | 支持问卷考试自动化的NAS系统  | [项目地址](https://github.com/javahuang/SurveyKing)          | [查看教程](https://zhuanlan.zhihu.com/p/30481345905) | ![Star](https://img.shields.io/github/stars/javahuang/SurveyKing?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/javahuang/SurveyKing?label) |
 | 幻兽帕鲁服务器 | 搭建联机稳定的游戏专属服务器 | [项目地址](https://github.com/jammsen/docker-palworld-dedicated-server) | [查看教程](https://zhuanlan.zhihu.com/p/31530044821) | ![Star](https://img.shields.io/github/stars/jammsen/docker-palworld-dedicated-server?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/jammsen/docker-palworld-dedicated-server?label) |
-| 卷王考试系统   | 支持问卷考试自动化的NAS系统  | [项目地址](https://github.com/xianyu-one/surveyking)         | [查看教程](https://zhuanlan.zhihu.com/p/30481345905) | ![Star](https://img.shields.io/github/stars/xianyu-one/surveyking?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/xianyu-one/surveyking?label) |
 | 翼龙面板汉化版 | 支持多游戏一键开服及管理     | [项目地址](https://github.com/pterodactyl-china/panel)       | [查看教程](https://zhuanlan.zhihu.com/p/30481011234) | ![Star](https://img.shields.io/github/stars/pterodactyl-china/panel?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/pterodactyl-china/panel?label) |
 | MyIP           | 网络诊断工具，集多功能于一体 | [项目地址](https://github.com/jason5ng32/myip)               | [查看教程](https://zhuanlan.zhihu.com/p/30579748111) | ![Star](https://img.shields.io/github/stars/jason5ng32/myip?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/jason5ng32/myip?label) |
 #### 10.2 存储方案
