@@ -34,10 +34,10 @@
 
 #### 1.1 AI应用工具
 
-| 项目标题     | 项目简介                         | 项目地址                                                     | 教程                                                 |
-| ------------ | -------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------- |
-| Zammad       | 免费打造支持多渠道接入的客服系统 | [项目地址](https://github.com/zammad/zammad)                 | [查看教程](https://zhuanlan.zhihu.com/p/30899947205) |
-| LanguageTool | 30+语种语法校验及实时纠错工具    | [项目地址](https://github.com/languagetool-org/languagetool) | [查看教程](https://zhuanlan.zhihu.com/p/28636492929) |
+| 项目标题     | 项目简介                         | 项目地址                                                     | 教程                                                 | 项目信息                                                     |
+| ------------ | -------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------ |
+| Zammad       | 免费打造支持多渠道接入的客服系统 | [项目地址](https://github.com/zammad/zammad)                 | [查看教程](https://zhuanlan.zhihu.com/p/30899947205) | ![](https://github-readme-stats.vercel.app/api/pin?username=zammad&repo=zammad&theme=dracula) |
+| LanguageTool | 30+语种语法校验及实时纠错工具    | [项目地址](https://github.com/languagetool-org/languagetool) | [查看教程](https://zhuanlan.zhihu.com/p/28636492929) |                                                              |
 
 #### 1.2 部署与优化
 
