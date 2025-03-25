@@ -1,9 +1,21 @@
-# Awesome-NAS-Docker 🚀
+<center><h1>Awesome-NAS-Docker 🚀</h1></center>
 
-[![GitHub Stars](https://img.shields.io/github/stars/TWO-ICE/Awesome-NAS-Docker?style=flat-square)](https://github.com/TWO-ICE/Awesome-NAS-Docker/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+<div style="text-align: center;">
+  <a href="https://github.com/TWO-ICE/Awesome-NAS-Docker/stargazers">
+    <img src="https://img.shields.io/github/stars/TWO-ICE/Awesome-NAS-Docker?style=flat-square" alt="GitHub Stars">
+  </a>
+  &nbsp; &nbsp;
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License">
+  </a>
+</div>
+垃圾佬俱乐部，全网收集好玩的docker项目，覆盖 AI、开发、数据管理、家庭娱乐等场景，生命不息！折腾不止！
 
-精选 100+ 开源项目，覆盖 AI、开发、数据管理、家庭娱乐等场景，提供一键部署指南和深度教程。
+知乎：[二冰](https://www.zhihu.com/people/congjiwang)
+
+公众号：丛集黑科技
+
+<img src="https://img.twoice.fun:666/i/2025/03/25/gongzhonghao-2.png" style="zoom:50%;" />
 
 ## ![](https://img.twoice.fun:666/i/2025/03/25/202503251013101-2.png) 项目分类
 
@@ -173,31 +185,6 @@
 
 ### 07、安全与隐私工具
 
-#### 7.1 加密体系
-
-| 项目标题 | 项目简介 | 项目地址 | 教程 | star | 最近更新 |
-| -------- | -------- | -------- | ---- | ---- | -------- |
-|          |          |          |      |      |          |
-#### 7.2 身份认证
-
-| 项目标题 | 项目简介 | 项目地址 | 教程 | star | 最近更新 |
-| -------- | -------- | -------- | ---- | ---- | -------- |
-|          |          |          |      |      |          |
-#### 7.3 威胁监控
-
-| 项目标题 | 项目简介 | 项目地址 | 教程 | star | 最近更新 |
-| -------- | -------- | -------- | ---- | ---- | -------- |
-|          |          |          |      |      |          |
-#### 7.4 渗透测试
-
-| 项目标题 | 项目简介 | 项目地址 | 教程 | star | 最近更新 |
-| -------- | -------- | -------- | ---- | ---- | -------- |
-|          |          |          |      |      |          |
-#### 7.5 数据保护
-
-| 项目标题 | 项目简介 | 项目地址 | 教程 | star | 最近更新 |
-| -------- | -------- | -------- | ---- | ---- | -------- |
-|          |          |          |      |      |          |
 ### 08、家庭与物联网
 
 #### 8.1 家庭娱乐
