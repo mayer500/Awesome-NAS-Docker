@@ -15,7 +15,7 @@
 
 公众号：丛集黑科技
 
-<img src="https://img.twoice.fun:666/i/2025/03/25/gongzhonghao-2.png" style="zoom:50%;" />
+![](https://img.twoice.fun:666/i/2025/03/25/1gongzhonghao-2-2.png)
 
 ## ![](https://img.twoice.fun:666/i/2025/03/25/202503251013101-2.png) 项目分类
 
