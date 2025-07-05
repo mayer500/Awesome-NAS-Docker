@@ -1,0 +1,6 @@
+- category: "08、家庭与物联网"
+- subcategory: "家庭娱乐"
+- name: "LibreTV"
+- description: "一分钟搭建影视站，支持Vercel/Docker等部署方式"
+- repo: "https://github.com/LibreSpark/LibreTV"
+- tutorial: "https://libretv.is-an.org/"
